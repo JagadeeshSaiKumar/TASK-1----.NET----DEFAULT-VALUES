@@ -1,4 +1,3 @@
-namespace pradeep;
 class system
 {
     public static void Main(String[] args)
